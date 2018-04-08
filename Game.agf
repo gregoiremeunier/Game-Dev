@@ -637,6 +637,14 @@
             <Number>1</Number>
             <Description xml:space="preserve">First Room</Description>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>2</Number>
+            <Description>Hub</Description>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>3</Number>
+            <Description xml:space="preserve">Lv1(porte bleue)</Description>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -1876,8 +1884,8 @@
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>1</StartingRoom>
-            <StartX>160</StartX>
-            <StartY>160</StartY>
+            <StartX>879</StartX>
+            <StartY>446</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>3</MovementSpeedX>
