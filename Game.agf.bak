@@ -645,6 +645,10 @@
             <Number>3</Number>
             <Description xml:space="preserve">Lv1(porte bleue)</Description>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>4</Number>
+            <Description xml:space="preserve">Lv2(porte orange)</Description>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
