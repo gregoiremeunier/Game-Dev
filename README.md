@@ -7,7 +7,8 @@ Game in development, any advice would be grateful.
 You can help yourself with this youtube playlist :
  https://www.youtube.com/playlist?list=PL21DB402CB4DAEAEF
 
----*What has to be done :*---
+---*What has to be done*--
+
 PRIMARY
 - find an enigma on the hub
 - make the note appears and explain the enigma in blue room
