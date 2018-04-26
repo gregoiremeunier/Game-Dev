@@ -933,8 +933,8 @@
                 <Height>528</Height>
                 <Locked>False</Locked>
                 <Width>1134</Width>
-                <Left>24</Left>
-                <Top>24</Top>
+                <Left>23</Left>
+                <Top>28</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>invCustomInv</Name>
@@ -954,8 +954,8 @@
                 <Height>156</Height>
                 <Locked>False</Locked>
                 <Width>192</Width>
-                <Left>264</Left>
-                <Top>600</Top>
+                <Left>260</Left>
+                <Top>574</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>btnInvSelect</Name>
@@ -975,8 +975,8 @@
                 <Height>156</Height>
                 <Locked>False</Locked>
                 <Width>192</Width>
-                <Left>24</Left>
-                <Top>600</Top>
+                <Left>50</Left>
+                <Top>574</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>btnInvLook</Name>
@@ -996,8 +996,8 @@
                 <Height>156</Height>
                 <Locked>False</Locked>
                 <Width>192</Width>
-                <Left>504</Left>
-                <Top>600</Top>
+                <Left>508</Left>
+                <Top>568</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>btnInvOK</Name>
@@ -1693,8 +1693,8 @@
               </InventoryItem>
               <InventoryItem>
                 <ID>6</ID>
-                <HotspotX>0</HotspotX>
-                <HotspotY>0</HotspotY>
+                <HotspotX>18</HotspotX>
+                <HotspotY>9</HotspotY>
                 <PlayerStartsWithItem>False</PlayerStartsWithItem>
                 <CursorImage>0</CursorImage>
                 <Image>5</Image>
@@ -1799,7 +1799,7 @@
               <Event Index="0" />
               <Event Index="1" />
               <Event Index="2" />
-              <Event Index="3" />
+              <Event Index="3">iNote_UseInv</Event>
               <Event Index="4" />
             </Interactions>
           </InventoryItem>
