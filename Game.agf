@@ -2604,6 +2604,7 @@ return
           <Sprite Slot="2" Width="11" Height="4" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
           <Sprite Slot="3" Width="11" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
           <Sprite Slot="5" Width="36" Height="26" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+          <Sprite Slot="6" Width="898" Height="577" ColorDepth="32" Resolution="HighRes" AlphaChannel="False" />
         </Sprites>
       </SpriteFolder>
     </Sprites>
