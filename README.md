@@ -19,9 +19,12 @@ PRIMARY
 - create an inventory with all our items
 - modify the end in order to have an end screen
 - DONE : find something for the rope in the middle of the orange room
+- make a beginning for the game
+-
 
 SECONDARY
 - change size of the person on the first room (and maybe others)
 - do pictures + texts inventary
 - put texts on 3 doors in the hub
+- implenter un timer
 - 
