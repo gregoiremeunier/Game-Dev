@@ -15,16 +15,16 @@ https://docs.google.com/document/d/19DZ3Fm8u8KgNVOyt-4e2jeF04qzLf9hvifXm-fyf_Sw/
 PRIMARY
 - find an enigma on the hub
 - make the note appears and explain the enigma in blue room
-- put an enter text in every room
+- DONE : put an enter text in every room
 - create an inventory with all our items
-- modify the end in order to have an end screen
+- DONE : modify the end in order to have an end screen
 - DONE : find something for the rope in the middle of the orange room
-- make a beginning for the game
+- DONE : make a beginning for the game
 -
 
 SECONDARY
 - change size of the person on the first room (and maybe others)
 - do pictures + texts inventary
 - put texts on 3 doors in the hub
-- implenter un timer
+- implanter a timer
 - 
