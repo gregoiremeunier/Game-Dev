@@ -13,18 +13,10 @@ https://docs.google.com/document/d/19DZ3Fm8u8KgNVOyt-4e2jeF04qzLf9hvifXm-fyf_Sw/
 ---*What has to be done*--
 
 PRIMARY
-- find an enigma on the hub
-- make the note appears and explain the enigma in blue room
-- DONE : put an enter text in every room
-- create an inventory with all our items
-- DONE : modify the end in order to have an end screen
-- DONE : find something for the rope in the middle of the orange room
-- DONE : make a beginning for the game
--
+- make the personage move before to interact with object (inside the hub and inside the room3)
+- make the objects out of the inventory when it is used
+- block the utilisation of already used objects (like do not take the rope 2 times)
 
 SECONDARY
-- change size of the person on the first room (and maybe others)
-- do pictures + texts inventary
-- put texts on 3 doors in the hub
-- implanter a timer
-- 
+- change size of the person on the first room (and maybe others ?)
+- implante a timer
