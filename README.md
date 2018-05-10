@@ -4,15 +4,14 @@ You start in a dark room. You do not know why you are here. You have to find clu
 
 Game in development, any advice would be grateful.
 
-To only start the .EXE file, download this file :
-https://github.com/gregoiremeunier/Game-Dev/blob/master/Compiled/Windows/Game%20Dev.exe
+You can help yourself with this youtube playlist :
+ https://www.youtube.com/playlist?list=PL21DB402CB4DAEAEF
 
 Presentation of the game :
 https://docs.google.com/document/d/19DZ3Fm8u8KgNVOyt-4e2jeF04qzLf9hvifXm-fyf_Sw/edit?usp=sharing
 
 Slides of the game :
 https://docs.google.com/presentation/d/1zjUpLzUZ1d1yLn7rO5qcl6gF0HKB3oOb2HxS6uP4lfY/edit?usp=sharing
-
 
 ---*What has to be done*--
 
@@ -23,5 +22,4 @@ PRIMARY
 
 SECONDARY
 - change size of the person on the first room (and maybe others ?)
-- implante a timer
-- double click pour arrêter de marcher après avoir cliqué sur un objet => assez relou
+- implemente a timer
