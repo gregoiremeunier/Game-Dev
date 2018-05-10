@@ -10,6 +10,9 @@ You can help yourself with this youtube playlist :
 Presentation of the game :
 https://docs.google.com/document/d/19DZ3Fm8u8KgNVOyt-4e2jeF04qzLf9hvifXm-fyf_Sw/edit?usp=sharing
 
+Slides of the game :
+https://docs.google.com/presentation/d/1zjUpLzUZ1d1yLn7rO5qcl6gF0HKB3oOb2HxS6uP4lfY/edit?usp=sharing
+
 ---*What has to be done*--
 
 PRIMARY
