@@ -13,10 +13,10 @@ https://docs.google.com/document/d/19DZ3Fm8u8KgNVOyt-4e2jeF04qzLf9hvifXm-fyf_Sw/
 ---*What has to be done*--
 
 PRIMARY
-- make the personage move before to interact with object (inside the hub and inside the room3)
-- make the objects out of the inventory when it is used
 - block the utilisation of already used objects (like do not take the rope 2 times)
+- make the personage move before to interact with object (inside the hub and inside the room3) //boring ?
+- make the objects out of the inventory when it is used
 
 SECONDARY
 - change size of the person on the first room (and maybe others ?)
-- implante a timer
+- implemente a timer
