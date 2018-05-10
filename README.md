@@ -23,4 +23,5 @@ PRIMARY
 
 SECONDARY
 - change size of the person on the first room (and maybe others ?)
-- implemente a timer
+- implante a timer
+- double click pour arrêter de marcher après avoir cliqué sur un objet => assez relou
